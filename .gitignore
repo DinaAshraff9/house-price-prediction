@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+node_modules/
+dist/
+.env
+*.log
+notebooks/data/
+.ipynb_checkpoints/
+backend/models/house_price.pkl 
+notebooks/house_price.pkl 
