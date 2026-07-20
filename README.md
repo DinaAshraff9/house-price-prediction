@@ -114,7 +114,14 @@ Copy them into the backend:
 copy notebooks\house_price.pkl backend\models\
 copy notebooks\locations.json backend\models\
 ```
+### Alternative: Download the pre-trained model
 
+Instead of running the notebook, you can download the already-trained model 
+file (`house_price_model.pkl`, ~417MB) from Google Drive:
+
+🔗 [Download house_price_model.pkl](https://drive.google.com/drive/folders/1sG1Kd8oiiYCBBygvxDAX2RcOgL6uPYb3?usp=sharing)
+
+After downloading, place the file in:
 ### 2. Backend (FastAPI)
 
 ```bash
